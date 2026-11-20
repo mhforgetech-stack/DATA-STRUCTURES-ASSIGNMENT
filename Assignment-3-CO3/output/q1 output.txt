@@ -1,0 +1,11 @@
+Search 99: Not found, comparisons = 3
+After deleting leaf 20: 30 40 50 60 65 70 80 
+After deleting one-child node 30: 40 50 60 65 70 80 
+After deleting two-child node 50: 40 60 65 70 80 
+Empty tree height: -1, search result: Not found
+Duplicate 60 ignored: Yes
+Rebuilt tree inorder: 40 60 65 70 80 
+2000-key experiment
+Random insertion height: 26, average successful-search comparisons: 14.18
+Sorted insertion height: 1999, average successful-search comparisons: 1000.50
+PS C:\Users\Mohamed Hasan\Documents\SILENT ECLIPSE\COLLEGE\SLOT B (DATA STRUCTURE)\assignment 3\src> 
