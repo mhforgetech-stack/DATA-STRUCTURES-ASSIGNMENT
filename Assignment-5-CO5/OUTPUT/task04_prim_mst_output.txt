@@ -1,0 +1,5 @@
+Compile: gcc -std=c11 -Wall -Wextra -O2 /mnt/data/Assignment-5-CO5/src/task04_prim_mst.c -o /mnt/data/Assignment-5-CO5/output/task04_prim_mst
+
+Run output:
+0-1(2) 1-2(3) 0-3(6) 1-4(5) 
+total cost = 16
